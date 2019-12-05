@@ -15,5 +15,5 @@ chmod +x correct-link.sh
 - `correct-link` the correct link
 for example:
 ```
-./correct-link.sh https://github.com/kubernetes/enhancements/blob/master/keps/sig-cloud-provider/0002-cloud-controller-manager.md /opt/kubernetes/ https://github.com/kubernetes/enhancements/blob/master/keps/sig-cloud-provider/20180530-cloud-controller-manager.mdfind 
+./correct-link.sh https://github.com/kubernetes/enhancements/blob/master/keps/sig-cloud-provider/0002-cloud-controller-manager.md /opt/kubernetes/enhancements https://github.com/kubernetes/enhancements/blob/master/keps/sig-cloud-provider/20180530-cloud-controller-manager.md 
 ```
